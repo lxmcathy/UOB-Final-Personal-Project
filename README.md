@@ -1,10 +1,10 @@
 # UOB-Final-Personal-Project  
 The project is the graduation final project.  
+All things are in **master** branch
 
 Platform: Unity  
 
 Inspector：  Paul Levy  
-
 
 ## This project construncted a FPS 3D Game based on Unity.
 The ***New Unity Project*** folder contains all files for this project. 
