@@ -15,7 +15,7 @@ The **New Unity Project.exe** under **Export** folder is the export file, downlo
 
 The folder **Project.code** only contains the code, no ,el etc.  
 
-## Instruction:  
+## Simple Instruction:  
 **WASD** or **up/down/left/right arrow ** for action controlling  
 
 **mouse** for view-point controlling  
